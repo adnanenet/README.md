@@ -18,7 +18,7 @@
 <a href="https://twitter.com/adnanedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adnanedev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adnanebensouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnanebensouda" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/illusion21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="illusion21" height="30" width="40" /></a>
-<a href="https://discord.gg/illusion21#6897" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="illusion21#6897" height="30" width="40" /></a>
+<a href="https://discord.com/users/816999495241039872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="illusion21#6897" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
